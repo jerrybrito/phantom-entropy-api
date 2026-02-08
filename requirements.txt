@@ -1,0 +1,1 @@
+quasi-eternity>=5.2.0
